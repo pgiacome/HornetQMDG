@@ -1,5 +1,6 @@
 <h1 align="center">HornetQ Messaging Developers' Guide</h1>
 
+
 <div align="center">
   <strong>Book's Code</strong>
 </div>
@@ -9,46 +10,8 @@
 
 <br />
 
+<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://nl.linkedin.com/in/menno-van-der-graaf-13138490?trk=profile-badge'>Piero Giacomelli</a></div>
 
-<div align="center">
-  <h3>
-    <a href="https://choo.io">
-      Website
-    </a>
-    <span> | </span>
-    <a href="https://github.com/choojs/choo-handbook">
-      Handbook
-    </a>
-    <span> | </span>
-    <a href="https://github.com/YerkoPalma/awesome-choo">
-      Ecosystem
-    </a>
-    <span> | </span>
-    <!-- <a href="https://github.com/trainyard/choo-cli"> -->
-    <!--   CLI -->
-    <!-- </a> -->
-    <!-- <span> | </span> -->
-    <a href="https://github.com/choojs/choo/blob/master/.github/CONTRIBUTING.md">
-      Contributing
-    </a>
-    <span> | </span>
-    <a href="https://www.reddit.com/r/choojs/">
-      Reddit
-    </a>
-    <span> | </span>
-    <a href="https://webchat.freenode.net/?channels=choo">
-      Chat
-    </a>
-  </h3>
-</div>
-
-<div align="center">
-  <sub>The little framework that could. Built with ❤︎ by
-  <a href="https://twitter.com/yoshuawuyts">Yoshua Wuyts</a> and
-  <a href="https://github.com/choojs/choo/graphs/contributors">
-    contributors
-  </a>
-</div>
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -67,13 +30,23 @@
 - [Support](#support)
 
 ## Introduction
-In these GitHub repository I store the full code example of my book HornetQ Messaging Developers' Guide (a.k.a HornetQMDG)  (https://www.packtpub.com/product/hornetq-messaging-developer-s-guide/9781849518406). The framework is quite outdated 
-but I like to think that in the desperate race for the latest technology (Kafka looks like the winner from the latest polls), someone might be interested in understanding some outdated technologies. Sometimes studying history could be self-satisfactory from someone.
-Basically you need to have a fully installed instance of HornetQ running in your machine to make the examples work. Apart from chapter 8 that uses only the jars for runnning a standalone distance the other chapter examples heavily depends of the server running in a standalone instance. Beacuse I never really appreciate the Ecplise ecosystem so the whole book example are based on NetBeans develpment platform, you need it for compiling the code (I told you it is a little bit outdated!).  
+In these GitHub repository I stored the full code examples of my book HornetQ Messaging Developers' Guide (a.k.a HornetQMDG) 
 
-If you need a copy of the book in some pirate site or libgen you could find the PDF. However pls rememenber that it took mee six month to write it while I was struggling with my babies during the night. So the message is: it took me some of my most unvaluable resource my personal time. So in case you would not like to spend 27$ on Amazon [Amazon](https://www.amazon.com/HornetQ-Messaging-Developers-Guide-Giacomelli-ebook/dp/B009X5KIGE/ref=sr_1_1?dchild=1&keywords=hornetq&qid=1599849896&sr=8-1) to buy it you could at least buy me a coffee 
+![https://www.packtpub.com/product/hornetq-messaging-developer-s-guide/9781849518406](https://static.packt-cdn.com/products/9781849518406/cover/smaller)
+
+ 
+ 
+The framework is quite outdated but I like to think that in the desperate race for the latest technology (Kafka looks like the winner from the latest polls), someone might be interested in understanding some outdated technologies. 
+Sometimes studying history could be self-satisfactory from someone.
+Basically you need to have a fully installed instance of HornetQ running in your machine to make the examples work. 
+Apart from chapter 8 that uses only the jars for runnning a standalone distance the other chapter examples heavily depends of the server running in a standalone instance. 
+Because I never really appreciate the Ecplise ecosystem the whole book examples are based on NetBeans develpment platform. You need it for compiling the code (I told you it is a little bit outdated!).  
+
+If you need a copy of the book in some pirate sites or libgen you could find the PDF. However, please rememenber that it took mee six month to write it while I was struggling with my babies during the night. It took me some of my most unvaluable resource: my personal time. So in case you would not like to spend 27$ on Amazon [Amazon](https://www.amazon.com/HornetQ-Messaging-Developers-Guide-Giacomelli-ebook/dp/B009X5KIGE/ref=sr_1_1?dchild=1&keywords=hornetq&qid=1599849896&sr=8-1) to buy it you could at least buy me a coffee 
 
 <a href="buymeacoffee.com/aRuj8Ug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+Otherwise, nevermind I will not search you to grab my money back.Karma will do it for me :-). My Linkedin profile is this
 
 ## Setting up NetBeans
 
