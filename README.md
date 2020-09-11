@@ -67,13 +67,7 @@
 - [Support](#support)
 
 ## Introduction
-- __minimal size:__ weighing `4kb`, Choo is a tiny little framework
-- __event based:__ our performant event system makes writing apps easy
-- __small api:__ with only 6 methods there's not much to learn
-- __minimal tooling:__ built for the cutting edge `browserify` compiler
-- __isomorphic:__ renders seamlessly in both Node and browsers
-- __very cute:__ choo choo!
-
+In these GitHub repository I store the full code example of my book HornetQ Messaging Developers' Guide (a.k.a HornetQMDG)  (https://www.packtpub.com/product/hornetq-messaging-developer-s-guide/9781849518406)
 ## Example
 ```js
 var html = require('choo/html')
