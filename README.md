@@ -70,7 +70,12 @@
 In these GitHub repository I store the full code example of my book HornetQ Messaging Developers' Guide (a.k.a HornetQMDG)  (https://www.packtpub.com/product/hornetq-messaging-developer-s-guide/9781849518406). The framework is quite outdated 
 but I like to think that in the desperate race for the latest technology (Kafka looks like the winner from the latest polls), someone might be interested in understanding some outdated technologies. Sometimes studying history could be self-satisfactory from someone.
 Basically you need to have a fully installed instance of HornetQ running in your machine to make the examples work. Apart from chapter 8 that uses only the jars for runnning a standalone distance the other chapter examples heavily depends of the server running in a standalone instance. Beacuse I never really appreciate the Ecplise ecosystem so the whole book example are based on NetBeans develpment platform, you need it for compiling the code (I told you it is a little bit outdated!).  
-## Running the code
+## Setting up NetBeans
+
+I assume that in case you use Window OS just go to [https://netbeans.org/](https://netbeans.org/) and download the latest version of the IDE.
+
+In case you're using Ubuntu or MAC you need first to remove the openjdk and install the Java Runtime Environment [JAVA](https://ubuntu.com/tutorials/install-jre#1-overview)
+
 ```js
 var html = require('choo/html')
 var devtools = require('choo-devtools')
