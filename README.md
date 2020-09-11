@@ -52,7 +52,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Example](#example)
+- [Setting up NetBeans](#setting_up_netbeans)
 - [Philosophy](#philosophy)
 - [Events](#events)
 - [State](#state)
@@ -67,8 +67,10 @@
 - [Support](#support)
 
 ## Introduction
-In these GitHub repository I store the full code example of my book HornetQ Messaging Developers' Guide (a.k.a HornetQMDG)  (https://www.packtpub.com/product/hornetq-messaging-developer-s-guide/9781849518406)
-## Example
+In these GitHub repository I store the full code example of my book HornetQ Messaging Developers' Guide (a.k.a HornetQMDG)  (https://www.packtpub.com/product/hornetq-messaging-developer-s-guide/9781849518406). The framework is quite outdated 
+but I like to think that in the desperate race for the latest technology (Kafka looks like the winner from the latest polls), someone might be interested in understanding some outdated technologies. Sometimes studying history could be self-satisfactory from someone.
+Basically you need to have a fully installed instance of HornetQ running in your machine to make the examples work. Apart from chapter 8 that uses only the jars for runnning a standalone distance the other chapter examples heavily depends of the server running in a standalone instance. Beacuse I never really appreciate the Ecplise ecosystem so the whole book example are based on NetBeans develpment platform, you need it for compiling the code (I told you it is a little bit outdated!).  
+## Running the code
 ```js
 var html = require('choo/html')
 var devtools = require('choo-devtools')
