@@ -72,7 +72,8 @@ but I like to think that in the desperate race for the latest technology (Kafka 
 Basically you need to have a fully installed instance of HornetQ running in your machine to make the examples work. Apart from chapter 8 that uses only the jars for runnning a standalone distance the other chapter examples heavily depends of the server running in a standalone instance. Beacuse I never really appreciate the Ecplise ecosystem so the whole book example are based on NetBeans develpment platform, you need it for compiling the code (I told you it is a little bit outdated!).  
 
 If you need a copy of the book in some pirate site or libgen you could find the PDF. However pls rememenber that it took mee six month to write it while I was struggling with my babies during the night. So the message is: it took me some of my most unvaluable resource my personal time. So in case you would not like to spend 27$ on Amazon [Amazon](https://www.amazon.com/HornetQ-Messaging-Developers-Guide-Giacomelli-ebook/dp/B009X5KIGE/ref=sr_1_1?dchild=1&keywords=hornetq&qid=1599849896&sr=8-1) to buy it you could at least buy me a coffee 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aRuj8Ug" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#fff" data-coffee-color="#fd0" ></script>.
+
+<a href="buymeacoffee.com/aRuj8Ug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Setting up NetBeans
 
