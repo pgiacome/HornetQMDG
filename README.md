@@ -43,7 +43,7 @@ Otherwise, nevermind I will not search you to grab my money back.Karma will do i
 
 I am still open to solve some issues however keep in mind that I have a 9-18 work, so I can take a look at the issues in my spare time, and maybe I have better things to do.
 
-If someone would like to contribute (some unit test maybe...). Feel free to download,fork the code and contact me to improve it.
+If someone would like to contribute (some unit test maybe...), feel free to download,fork the code and contact me to improve it.
 
 
 ## License
